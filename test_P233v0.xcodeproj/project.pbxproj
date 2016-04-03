@@ -13,7 +13,7 @@
 /* Begin PBXFileReference section */
 		3CE0A2931CB13BD000BC1B6E /* Index */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Index; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CE0A2971CB13BD000BC1B6E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		3CE0A29A1CB13BD000BC1B6E /* Makefile */ = {isa = PBXFileReference; path = Makefile; sourceTree = "<group>"; };
+		3CE0A29A1CB13BD000BC1B6E /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */

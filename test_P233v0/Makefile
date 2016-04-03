@@ -40,7 +40,7 @@
 
 #include conf.mk
 # MCU name
-MCU = atmega88a
+MCU = atmega88
 
 
 # Processor frequency.
@@ -48,7 +48,7 @@ MCU = atmega88a
 #     processor frequency. You can then use this symbol in your source code to 
 #     calculate timings. Do NOT tack on a 'UL' at the end, this will be done
 #     automatically to create a 32-bit value in your source code.
-F_CPU = 8000000
+F_CPU = 1000000
 
 AVRDUDE_PROGRAMMER = avrisp
 AVRDUDE_BAUDRATE = 19200
